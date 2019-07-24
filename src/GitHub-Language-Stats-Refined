@@ -1,0 +1,11 @@
+@-moz-document domain("github.com") {
+/* Enlarge the statistics box to show both lines */
+	div.stats-switcher-viewport {
+		height: 80px !important;
+	}
+
+	/* Adjust positioning of language readout */
+	ol.repository-lang-stats-numbers {
+		margin-top: 5px !important;
+	}
+}
