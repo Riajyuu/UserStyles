@@ -1,0 +1,13 @@
+/* ==UserStyle==
+@name Hide MDN Servey Card
+@version 1.0.0
+@license WTFPL
+@homepageURL https://github.com/Riajyuu/UserStyles
+@author Riajyuu@GitHub
+==/UserStyle== */
+
+@-moz-document domain("developer.mozilla.org") {
+#developer_needs {
+    display: none;
+}
+}

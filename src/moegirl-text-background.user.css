@@ -1,0 +1,13 @@
+/* ==UserStyle==
+@name Moegirl Text Background
+@version 1.0.0
+@license WTFPL
+@homepageURL https://github.com/Riajyuu/UserStyles
+@author Riajyuu@GitHub
+==/UserStyle== */
+
+@-moz-document domain("moegirl.org"), domain("hmoegirl.com") {
+.heimu, .heimu a, a .heimu, .heimu a.new {
+    background-color: #A0A0A0;
+}
+}

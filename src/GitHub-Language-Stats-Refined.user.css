@@ -1,3 +1,11 @@
+/* ==UserStyle==
+@name Show GitHub Repo Language Stats
+@version 1.0.0
+@license WTFPL
+@homepageURL https://github.com/Riajyuu/UserStyles
+@author Riajyuu@GitHub
+==/UserStyle== */
+
 @-moz-document domain("github.com") {
 /* Enlarge the statistics box to show both lines */
 	div.stats-switcher-viewport {

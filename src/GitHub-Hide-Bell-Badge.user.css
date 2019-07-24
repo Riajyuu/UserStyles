@@ -1,0 +1,13 @@
+/* ==UserStyle==
+@name Hide GitHub Notifi' Bell Badge
+@version 1.0.0
+@license WTFPL
+@homepageURL https://github.com/Riajyuu/UserStyles
+@author Riajyuu@GitHub
+==/UserStyle== */
+
+@-moz-document url-prefix("https://github.com/") {
+.mail-status.unread {
+    display: none !important;
+}
+}
